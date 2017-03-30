@@ -1,0 +1,1 @@
+Fill in required fields in MAIN.rb and run.  Important to get tumblr access codes first after registering an app.
